@@ -1,0 +1,7 @@
+﻿  Manager.cpp
+c:\users\dudan\source\repos\bjxtgu-nhf\bjxtgu-nhf\manager.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\dudan\source\repos\bjxtgu-nhf\bjxtgu-nhf\manager.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\dudan\source\repos\bjxtgu-nhf\bjxtgu-nhf\manager.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\dudan\source\repos\bjxtgu-nhf\bjxtgu-nhf\manager.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\dudan\source\repos\bjxtgu-nhf\bjxtgu-nhf\manager.cpp(101): warning C4018: '<': signed/unsigned mismatch
+  BJXTGU-NHF.vcxproj -> C:\Users\dudan\source\repos\BJXTGU-NHF\Debug\BJXTGU-NHF.exe
